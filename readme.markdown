@@ -4,6 +4,8 @@ Compute the
 [binomial coefficient](https://en.wikipedia.org/wiki/Binomial_coefficient),
 `n C k`.
 
+[![build status](https://secure.travis-ci.org/substack/node-choose.png)](http://travis-ci.org/substack/node-choose)
+
 # example
 
 ## repl
